@@ -64,6 +64,8 @@ To reference to [CycloneDX](https://cyclonedx.org) formatted security informatio
 
 To learn how to include a reference to [Open Source Vulnerability](https://github.com/google/osv) (OSV) formatted security information applicable to a package see the example below.
 
+Test change
+
 ```
 "externalRefs" : [ {
   "referenceCategory" : "SECURITY",
